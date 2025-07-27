@@ -7,5 +7,5 @@ Perfect for Video Alerts in Streams and actually used for that purpose by my "St
 It is possible to build an executable "fat" jar file with the included build.xml ant script.
 
 ## Running
-Run with "java -jar VideoAlertPlayer.jar <path-to-video-file>"
+Run with "java -jar VideoAlertPlayer.jar path/to/video.file"
 
